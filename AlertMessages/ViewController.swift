@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  AlertMessages
 //
-//  Created by AAJM van Montfort on 21/09/2019.
+//  Created by AAJM van Montfort on 21/09/2019
 //  Copyright © 2019 AAJM van Montfort. All rights reserved.
 //
 
